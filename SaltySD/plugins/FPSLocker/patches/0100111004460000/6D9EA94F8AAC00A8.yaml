@@ -1,0 +1,37 @@
+# SONIC FORCES 1.1.0
+# BID: 6D9EA94F8AAC00A8
+# Game speed is tied to framerate
+
+unsafeCheck: true
+
+MASTER_WRITE:
+  # Remove double buffer
+  -
+    type: bytes
+    main_offset: 0xAD40FC
+    value_type: uint32
+    value: 0x52800068
+  # Block switching back to 30 FPS mode on loading screens
+  -
+    type: bytes
+    main_offset: 0x6173B0
+    value_type: uint32
+    value: 0xD503201F
+ALL_FPS:
+  # Switch to 60 FPS Mode
+  -
+    type: write
+    address: [MAIN, 0x1CAC518, 0x28, 0x20, 0x14]
+    value_type: uint32
+    value: 1
+  # FPS target
+  -
+    type: evaluate_write
+    address: [MAIN, 0x1C38C28, 0x1C]
+    value_type: float
+    value: FPS_TARGET
+  -
+    type: evaluate_write
+    address: [MAIN, 0x1C38C28, 0x14C]
+    value_type: float
+    value: FPS_TARGET
