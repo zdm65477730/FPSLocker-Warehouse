@@ -568,7 +568,7 @@ PATCH AVAILABILITY<br>
 | Sniper Elite V2 | `0100BB000A3AA000` | `B61F280560A937D2` ([✅](SaltySD/plugins/FPSLocker/patches/0100BB000A3AA000/B61F280560A937D2.yaml), v5, 1.0.5) | 📏 |
 | Snow Bros. Wonderland | `0100A0A01D520000` | `19A8A4E8372DEF43` (◯, v0, 1.0.0) | 🟢 |
 | SnowRunner | `0100FBD013AB6000` | `44C6A5004C499464` ([✅](SaltySD/plugins/FPSLocker/patches/0100FBD013AB6000/44C6A5004C499464.yaml), v27, 1.0.31) <br> `1B45F85E3DE5615D` ([✅](SaltySD/plugins/FPSLocker/patches/0100FBD013AB6000/1B45F85E3DE5615D.yaml), v28, 1.0.32) <br> `EA6728F9AE46C055` ([✅](SaltySD/plugins/FPSLocker/patches/0100FBD013AB6000/EA6728F9AE46C055.yaml), v29, 1.0.33) <br> `0D96442AC907A3F8` ([✅](SaltySD/plugins/FPSLocker/patches/0100FBD013AB6000/0D96442AC907A3F8.yaml), v30, 1.0.34) <br> `9976A5B49537F7D7` ([✅](SaltySD/plugins/FPSLocker/patches/0100FBD013AB6000/9976A5B49537F7D7.yaml), v31, 1.0.35) <br> `038858A1EC679156` ([✅](SaltySD/plugins/FPSLocker/patches/0100FBD013AB6000/038858A1EC679156.yaml), v32, 1.0.36) | 📏 |
-| Snufkin: Melody of Moominvalley | `010085001A17C000` | `4350D74F44BD83C4` (◯, v6, 1.5.1) | 🟢 |
+| Snufkin: Melody of Moominvalley | `010085001A17C000` | `00A50433964D3448` (◯, v7, 1.5.2) | 🟢 |
 | Song of Nunu: A League of Legends Story | `01004F401BEBE000` | `DF2D64FB63F1BD00` ([✅](SaltySD/plugins/FPSLocker/patches/01004F401BEBE000/DF2D64FB63F1BD00.yaml), v2, 1.0.2) | 📏🔧 |
 | Sonic Colours: Ultimate | `010040E0116B8000` | `957E1E19958193F9` (◯, v7, 1.0.9) | 🟢 |
 | SONIC FORCES | `01001270012B6000` | `6D9EA94F8AAC00A8` ([✅](SaltySD/plugins/FPSLocker/patches/01001270012B6000/6D9EA94F8AAC00A8.yaml), v1, 1.1.0) | 🔐⚔️🔢 |
