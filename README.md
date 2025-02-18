@@ -616,6 +616,7 @@ PATCH AVAILABILITY<br>
 | Tales from the Borderlands | `0100F0C011A68000` | `818C98B885460561` (◯, v0, 1.0.0) | 🟢 |
 | Tales of Symphonia Remastered | `0100A410169A4000` | `42673F5DE16DC698` (❌, v4, 1.3.1) | ⏱️🖥️ |
 | Taxi Chaos | `0100B76011DAA000` | `C5D73D3EDAADACB2` ([✅](SaltySD/plugins/FPSLocker/patches/0100B76011DAA000/C5D73D3EDAADACB2.yaml), v2, 1.0.3) | 🔐📏 |
+| TCG Card Market Simulator | `01001560214B8000` | `C7B47F3E9B7FDD12` (◯, v0, 1.0.0) | 🟢 |
 | Tchia | `0100CEE01D23C000` | `76B6E5E830A43D97` ([✅](SaltySD/plugins/FPSLocker/patches/0100CEE01D23C000/76B6E5E830A43D97.yaml), v1, 1.1) | 📏🔧 |
 | Team Sonic Racing | `010084B00B36E000` | `7D942261130F42A7` (◯, v3, 1.0.3) | 🟢 |
 | Terraformers | `0100C1B01872A000` | `5E6E397A73389543` (◯, v3, 1.5.38) | 🟢 |
