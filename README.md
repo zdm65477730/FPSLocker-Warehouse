@@ -652,6 +652,7 @@ PATCH AVAILABILITY<br>
 | The Smurfs - Dreams | `01008E401E6D0000` | `C124FFD193F533B4` ([✅](SaltySD/plugins/FPSLocker/patches/01008E401E6D0000/C124FFD193F533B4.yaml), v1, 1.0.1) <br> `E08769D5B56A5A25` ([✅](SaltySD/plugins/FPSLocker/patches/01008E401E6D0000/E08769D5B56A5A25.yaml), v2, 1.0.2) | 📏🔧 |
 | The Smurfs Mission Vileaf | `010040A01407E000` | `BBBBB9891F01415E` (◯, v4, 1.0.19.1) | 🟢 |
 | The Smurfs 2: The Prisoner of the Green Stone | `010073C01B7FE000` | `F294A4EBE966E8A9` ([✅](SaltySD/plugins/FPSLocker/patches/010073C01B7FE000/F294A4EBE966E8A9.yaml), v3, 1.03.03) | 📏🔧 |
+| The Stone of Madness | `01000F101B672000` | `7C1A501B8B2B098C` (◯, v1, 1.0.1) | 🟢 |
 | The Stretchers | `0100AA400A238000` | `14D7D1537BD5A986` ([✅](SaltySD/plugins/FPSLocker/patches/0100AA400A238000/14D7D1537BD5A986.yaml), v0, 1.0.0) | 🔐📏 |
 | The Survivalists | `0100EF200DA60000` | `69A45110D07F0442` (◯, v7, 1.0.7) | 🟢 |
 | The Thing: Remastered | `0100D4E01E49E000` | `9816BF022FB19327` (❌, v2, 1.1.0) | ⚔️ |
