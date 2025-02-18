@@ -357,6 +357,7 @@ PATCH AVAILABILITY<br>
 | Jujutsu Kaisen Cursed Clash `US` | `010000B01A452000` | `2F33996FD9C81253` ([✅](SaltySD/plugins/FPSLocker/patches/010000B01A452000/2F33996FD9C81253.yaml), v4, 1.2.0) <br> `2E7487767D0CA0EE` ([✅](SaltySD/plugins/FPSLocker/patches/010000B01A452000/2E7487767D0CA0EE.yaml), v5, 1.3.0) <br> `7C724F497564C027` ([✅](SaltySD/plugins/FPSLocker/patches/010000B01A452000/7C724F497564C027.yaml), v6, 1.4.0) | 🔐📏🔧 |
 | JUMP FORCE `EUR` | `010019D010F0E000` | `E1F650BD480CB465` (❌, v7, 1.08) | ⏱️🖥️ |
 | JUMP FORCE `US` | `0100183010F12000` | `1667568420912C73` (❌, v7, 1.08) | ⏱️🖥️ |
+| KAMiBAKO - Mythology of Cube - | `01008B40212D2000` | `91925CB98ED597AB` (◯, v1, 1.1.1) | 🟢 |
 | Kao the Kangaroo `GLOBAL` | `0100956016464000` | `F9C83728910E28A4` ([✅](SaltySD/plugins/FPSLocker/patches/0100956016464000/F9C83728910E28A4.yaml), v5, 1.5) | 📏🔧 |
 | Kao the Kangaroo `US` | `010078C01769A000` | `7BA282E94D34C620` ([✅](SaltySD/plugins/FPSLocker/patches/010078C01769A000/7BA282E94D34C620.yaml), v5, 1.5) | 📏🔧 |
 | Katamari Damacy REROLL | `0100D7000C2C6000` | `B528B17AD9C71F41` (❌, v2, 1.2) | ⏱️ |
