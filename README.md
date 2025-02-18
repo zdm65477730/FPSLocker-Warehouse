@@ -617,6 +617,7 @@ PATCH AVAILABILITY<br>
 | Tails of Iron 2: Whiskers of Winter | `01002A701DB9E000` | `E253C59CEAEC72A4` (◯, v3, 2.2) | 🟢 |
 | Tales of Kenzera: TAU | `01005C7015D30000` | `110D8FB47B55EA19` ([✅](SaltySD/plugins/FPSLocker/patches/01005C7015D30000/110D8FB47B55EA19.yaml), v4, 1.4.0) <br> `9E7FB72540D748BA` ([✅](SaltySD/plugins/FPSLocker/patches/01005C7015D30000/9E7FB72540D748BA.yaml), v5, 1.5.0) | 🔧 |
 | Tales from the Borderlands | `0100F0C011A68000` | `818C98B885460561` (◯, v0, 1.0.0) | 🟢 |
+| Tales of Graces f Remastered | `01005E701D168000` | `49700C9DA58DAD47` (◯, v3, 1.0.3) | 🟢 |
 | Tales of Symphonia Remastered | `0100A410169A4000` | `42673F5DE16DC698` (❌, v4, 1.3.1) | ⏱️🖥️ |
 | Taxi Chaos | `0100B76011DAA000` | `C5D73D3EDAADACB2` ([✅](SaltySD/plugins/FPSLocker/patches/0100B76011DAA000/C5D73D3EDAADACB2.yaml), v2, 1.0.3) | 🔐📏 |
 | TCG Card Market Simulator | `01001560214B8000` | `C7B47F3E9B7FDD12` (◯, v0, 1.0.0) | 🟢 |
