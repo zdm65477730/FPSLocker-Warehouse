@@ -2,6 +2,7 @@
 
 Patches are converted from YAML files that are tied to the buildid of games, so each one must be designed specifically for one version of one game.
 Patches write/read values only from RAM mappings that allow reading and writing (`RW-`). So they don't support patching `R-X` mappings.
+YAML files must be encoded in UTF-8 without BOM.
 
 YAML file consists of keys:
 - `unsafeCheck` - setting it to `true` results in the plugin not checking if an address is valid. It is recommended to leave it at `false` if you use HEAP related address
