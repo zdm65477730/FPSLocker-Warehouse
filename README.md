@@ -167,7 +167,7 @@ PATCH AVAILABILITY<br>
 | Cat Quest III | `010088501B8F2000` | `ED565D0058E1BBE3` (◯, v11, 1.3.1) | 🟢 |
 | Catherine: Full Body | `0100BF00112C0000` | `93A79C77DA81F7F1` (❌, v1, 1.0.1) | ⏱️🖥️ |
 | Cel Damage HD | `010019B00BE72000` | `03B058B1F6BE7195` ([✅](SaltySD/plugins/FPSLocker/patches/010019B00BE72000/03B058B1F6BE7195.yaml), v0, 1.0.0) | 🔐🌤️ |
-| Chants of Sennaar | `0100543019CB0000` | `CEFFC8421D584F8C` (◯, v2, 1.0.2) | 🟢 |
+| Chants of Sennaar | `0100543019CB0000` | `4965231C2C9FA6D3` (◯, v3, 1.0.3) | 🟢 |
 | Chef Life - A Restaurant Simulator | `0100F24014280000` | `CB098B1BD77BDD1A` (◯, v5, 1.8.0) | 🟢 |
 | Chernobylite | `01000AB01F9C0000` | `2D2065AEBF94F9AE` ([✅](SaltySD/plugins/FPSLocker/patches/01000AB01F9C0000/2D2065AEBF94F9AE.yaml), v1, 1.1) <br> `657F40EEBD955F31` ([✅](SaltySD/plugins/FPSLocker/patches/01000AB01F9C0000/657F40EEBD955F31.yaml), v2, 1.2) | 📏🔧 |
 | Choo-Choo Charles | `01006F901C7F2000` | `406F004D76F961F3` ([✅](SaltySD/plugins/FPSLocker/patches/01006F901C7F2000/406F004D76F961F3.yaml), v0, 1.0.1) | 📏🔧 |
