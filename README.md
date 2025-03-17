@@ -608,6 +608,7 @@ PATCH AVAILABILITY<br>
 | Strike Force 3 | `010060200F080000` | `8507336565D4C86B` (❌, v1, 1.1.0) | 📏 |
 | Subnautica | `0100429011144000` | `B3DB5A1EDAF8454F` (◯, v5, 1.21.71113) | 🟢 |
 | Subnautica Below Zero | `010014C011146000` | `5B050C55B8264040` (◯, v8, 1.21.49397) | 🟢 |
+| Suikoden I&II HD Remaster | `01004BD017080000` | `2FD26CC78F474F6C` (❌, v2, 1.0.2) | ⏱️ |
 | Super Crazy Rhythm Castle | `01005B7017828000` | `90B9B162B022DCBF` (◯, v0, 1.0.0.0) | 🟢 |
 | Super Kirby Clash | `01003FB00C5A8000` | `DCDFA5A4AD9A175D`  ([✅](SaltySD/plugins/FPSLocker/patches/01003FB00C5A8000/DCDFA5A4AD9A175D.yaml), v1, 1.0.1) | 🔐⚔️ |
 | Super Neptunia RPG | `01001CE00D7B6000` | `CE5C50E07FBF1E42` (◯, v2, 1.02) | 🟢 |
