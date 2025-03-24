@@ -279,8 +279,8 @@ MASTER_WRITE:
     main_offset: 0x1744E3C
     value_type: uint32
     value:
-      - 0xB001844A
-      - 0xBD426D4B
+      - 0x1E27D00B
+      - 0x1E2B296B
       - 0x17ABE724
   # Adjust QTE Speed 
   ## Code cave
