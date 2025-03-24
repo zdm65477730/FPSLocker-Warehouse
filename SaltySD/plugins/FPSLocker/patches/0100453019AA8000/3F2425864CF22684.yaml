@@ -217,7 +217,7 @@ MASTER_WRITE:
     value_type: uint32
     value:
       - 0xB9002279
-      - 0x121D0720
+      - 0x121E0820
       - 0xB0018448
       - 0x393FFD00
       - 0x34000080
