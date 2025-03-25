@@ -337,7 +337,7 @@ PATCH AVAILABILITY<br>
 | Highwater | `0100D1A019EBA000` | `3A38653015036D51` (◯, v1, 1.0.1) | 🟢 |
 | Hitman: Blood Money - Reprisal | `010083A018262000` | `59AF76C13F680B7C` ([✅](SaltySD/plugins/FPSLocker/patches/010083A018262000/59AF76C13F680B7C.yaml), v1, 1.2_71586) | ~~🔐~~ |
 | Hoa | `010022E013A1A000` | `1A9DF794AC0099F3` (◯, v3, 1.0.3) | 🟢 |
-| Hogwarts Legacy | `0100F7E00C70E000` | `1C42BC734E792AFB` ([✅](SaltySD/plugins/FPSLocker/patches/0100F7E00C70E000/1C42BC734E792AFB.yaml), v3, 1.0.3) <br> `2980E59C32A0E147` ([✅](SaltySD/plugins/FPSLocker/patches/0100F7E00C70E000/2980E59C32A0E147.yaml), v4, 1.0.4) | 📏🔧 |
+| Hogwarts Legacy | `0100F7E00C70E000` | `1C42BC734E792AFB` ([✅](SaltySD/plugins/FPSLocker/patches/0100F7E00C70E000/1C42BC734E792AFB.yaml), v3, 1.0.3) <br> `2980E59C32A0E147` ([✅](SaltySD/plugins/FPSLocker/patches/0100F7E00C70E000/2980E59C32A0E147.yaml), v4, 1.0.4) | ~~📏🔧~~ |
 | Hokko Life | `010022A016250000` | `D9D13603133F3D89` (◯, v5, 1.0.5) | 🟢 |
 | Horizon Chase 2 | `0100001019F6E000` | `F80EEC237D0963EE` ([✅](SaltySD/plugins/FPSLocker/patches/0100001019F6E000/F80EEC237D0963EE.yaml), v6, 1.6.3) <br> `D60A7F43A98034BE` ([✅](SaltySD/plugins/FPSLocker/patches/0100001019F6E000/D60A7F43A98034BE.yaml), v7, 1.6.6) | ~~🔐📏🔧~~ |
 | Hot Lap Racing | `010059301E612000` | `8E8C96D9B3FD9D83` (◯, v6, 1.1.3) | 🟢 |
@@ -556,7 +556,7 @@ PATCH AVAILABILITY<br>
 | Scars of Mars | `01007D101F162000` | `E2CE3F177AD8968C` (◯, v2, 1.1.0) | 🟢 |
 | SD GUNDAM BATTLE ALLIANCE | `01002BE016054000` | `751420FADE402804` ([✅](SaltySD/plugins/FPSLocker/patches/01002BE016054000/751420FADE402804.yaml), v7, 1.4.0) | ~~📏🔧~~ |
 | SD シン・仮面ライダー 乱舞 | `0100CD40192AC000` | `651CF2EC3862B82B` (◯, v2, 1.0.2) | 🟢 |
-| SENRAN KAGURA Peach Ball | `01004DC00D936000` | `31CDAD67EA25CC16` ([✅](SaltySD/plugins/FPSLocker/patches/01004DC00D936000/31CDAD67EA25CC16.yaml), v0, 1.0.0) | ~~🔐 ~~|
+| SENRAN KAGURA Peach Ball | `01004DC00D936000` | `31CDAD67EA25CC16` ([✅](SaltySD/plugins/FPSLocker/patches/01004DC00D936000/31CDAD67EA25CC16.yaml), v0, 1.0.0) | ~~🔐~~ |
 | Session: Skate Sim | `010023001969A000` | `D40B81867A121EB0` ([✅](SaltySD/plugins/FPSLocker/patches/010023001969A000/D40B81867A121EB0.yaml), v4, 1.1.3) <br> `F327FFD8C2E85895` ([✅](SaltySD/plugins/FPSLocker/patches/010023001969A000/F327FFD8C2E85895.yaml), v5, 1.1.4) | ~~📏🔧~~ |
 | Severed Steel | `0100E1C0148F8000` | `77C053D779EE97F6` ([✅](SaltySD/plugins/FPSLocker/patches/0100E1C0148F8000/77C053D779EE97F6.yaml), v2, 1.0.2) <br> `5EABF05A814EBB1B` ([✅](SaltySD/plugins/FPSLocker/patches/0100E1C0148F8000/5EABF05A814EBB1B.yaml), v3, 1.0.3) | ~~📏🔧~~ |
 | SHADOW GENERATIONS | `01005EA01C0FC000` | `3AEBA262CC1D26D3` ([✅](SaltySD/plugins/FPSLocker/patches/01005EA01C0FC000/3AEBA262CC1D26D3.yaml), v1, 1.0.1) <br> `C8CDBFD621A6B29B` ([✅](SaltySD/plugins/FPSLocker/patches/01005EA01C0FC000/C8CDBFD621A6B29B.yaml), v2, 1.1.0) | ~~🔐📏~~ |
@@ -652,7 +652,7 @@ PATCH AVAILABILITY<br>
 | The Legend of Heroes: Trails through Daybreak | `010040C01D248000` | `43D0D0D68A22E370` ([✅](SaltySD/plugins/FPSLocker/patches/010040C01D248000/43D0D0D68A22E370.yaml), v1, 1.0.1) | ~~🔐~~ |
 | The Legend of Heroes: Trails through Daybreak II | `0100F6701FED4000` | `7CE83658C7B53BB6` ([✅](SaltySD/plugins/FPSLocker/patches/0100F6701FED4000/7CE83658C7B53BB6.yaml), v1, 1.0.1) | ~~⏱️~~ |
 | The Legend of Legacy HD Remastered | `010099F01C258000` | `3E659DB2F020AC3B` (❌, v3, 1.0.3) | ⏱️🖥️ |
-| The Legend of Zelda: Breath of the Wild | `01007EF00011E000` | `8E9978D50BDD20B4` ([✅](SaltySD/plugins/FPSLocker/patches/01007EF00011E000/8E9978D50BDD20B4.yaml), v12, 1.6.0) | ~~📏⚔️⏱️🏃🖥️📺~~ |
+| The Legend of Zelda: Breath of the Wild | `01007EF00011E000` | `8E9978D50BDD20B4` ([✅](SaltySD/plugins/FPSLocker/patches/01007EF00011E000/8E9978D50BDD20B4.yaml), v12, 1.6.0) | ~~📏⚔️⏱️🏃🖥️📺~~🔢 |
 | The Legend of Zelda: Tears of the Kingdom | `0100F2C0115B6000` | `9B4E43650501A4D4` ([✅](SaltySD/plugins/FPSLocker/patches/0100F2C0115B6000/9B4E43650501A4D4.yaml), v6, 1.2.1) | ~~📏⚔️⏱️🏃🖥️📺🔢~~ |
 | The LEGO Movie 2 - Videogame | `0100A4400BE74000` | `BAC1309DDF75B14D` (◯, v3, 1.0.3) | 🟢 |
 | The LEGO NINJAGO Movie Video Game | `01000CE002072000` | `346959B36CD9F14D` ([✅](SaltySD/plugins/FPSLocker/patches/01000CE002072000/346959B36CD9F14D.yaml), v3, 1.0.3) | ~~📺~~ |
