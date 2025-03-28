@@ -75,15 +75,6 @@ MASTER_WRITE:
       - 0xF0022A35
       - 0xF9470D00
       - 0xBD426AAA
-  ## Function 2 to speed factor // Weather effects (rain, fog)
-  -
-    type: bytes
-    main_offset: 0x2892AC
-    value_type: uint32
-    value:
-      - 0x90022A20
-      - 0xF000D828
-      - 0xBD426801
   ## Function 3 to speed factor // Usage unknown
   -
     type: bytes
@@ -339,6 +330,24 @@ MASTER_WRITE:
     main_offset: 0x67354
     value_type: uint32
     value: 0x945B76DB
+  # Fix fog speed
+  -
+    type: bytes
+    main_offset: 0x296640
+    value_type: uint32
+    value: 
+      - 0xF00229A8
+      - 0xBD426902
+      - 0x9452BA2B
+  ## Code cave
+  -
+    type: bytes
+    main_offset: 0x1744EF4
+    value_type: uint32
+    value: 
+      - 0x1E21C042
+      - 0x1F020020
+      - 0xD65F03C0
 ALL_FPS:
   # FPS Target
   -
