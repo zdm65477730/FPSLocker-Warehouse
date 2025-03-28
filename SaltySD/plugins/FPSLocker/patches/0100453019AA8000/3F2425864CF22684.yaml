@@ -308,7 +308,15 @@ MASTER_WRITE:
     value:
       - 0xB0018454
       - 0xBD426A81
-      - 0x17BA027E
+      - 0x1400001B
+  -
+    type: bytes
+    main_offset: 0x1744EE8
+    value_type: uint32
+    value:
+      - 0xBD412262
+      - 0x1E210841
+      - 0x17BA0261
   ## Connect function
   -
     type: bytes
