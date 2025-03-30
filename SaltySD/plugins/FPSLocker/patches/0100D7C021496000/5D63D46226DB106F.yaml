@@ -1,7 +1,7 @@
 # Twilight Monk 1.0.0
 # BID: 5D63D46226DB106F
 
-unsafeCheck: true
+unsafeCheck: false
 
 ALL_FPS:
   # Disable bUseFixedFrameRate to untie game speed from framerate and unlock FPS
