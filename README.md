@@ -516,7 +516,7 @@ PATCH AVAILABILITY<br>
 | PowerWash Simulator | `0100926016012000` | `8EACFE3E9E92B0FE` ([✅](SaltySD/plugins/FPSLocker/patches/0100926016012000/8EACFE3E9E92B0FE.yaml), v12, 1.7.0) <br> `7FF42DE6AA57290B` ([✅](SaltySD/plugins/FPSLocker/patches/0100926016012000/7FF42DE6AA57290B.yaml), v16, 1.9.1) <br> `B2395B882C2BCB24` ([✅](SaltySD/plugins/FPSLocker/patches/0100926016012000/B2395B882C2BCB24.yaml), v17, 1.9.2) <br> `30997D8F7566EBB5` ([✅](SaltySD/plugins/FPSLocker/patches/0100926016012000/30997D8F7566EBB5.yaml), v18, 1.10.0) | ~~🔐~~ |
 | Princess Peach Showtime! | `01007A3009184000` | `928EFE2954F68055` ([✅](SaltySD/plugins/FPSLocker/patches/01007A3009184000/928EFE2954F68055.yaml), v0, 1.0.0) | ~~📏🔧~~ |
 | Prison Simulator | `010094C017B06000` | `56C709E1A63CF9EA` (◯, v0, 1.0.0) | 🟢 |
-| Project Warlock | `0100BDB01150E000` | `D597DE8544D8ED4F` (◯, v3, 1.0.3) | 🟢 |
+| Project Warlock | `0100BDB01150E000` | `D597DE8544D8ED4F` (◯, v4, 1.0.4) | 🟢 |
 | Raccoo Venture | `0100C1E01CDEE000` | `27BB06DD145F39F5` ([✅](SaltySD/plugins/FPSLocker/patches/0100C1E01CDEE000/27BB06DD145F39F5.yaml), v3, 1.0.3) | ~~🔐🏃~~ |
 | Rad Rogers: Radical Edition | `010000600CD54000` | `78885A1CA987C04C` ([✅](SaltySD/plugins/FPSLocker/patches/010000600CD54000/78885A1CA987C04C.yaml), v2, 1.2.0) | ~~🔐~~ |
 | Rain World | `010047600BF72000` | `BEC01A3CE1E33E93` (◯, v8, 1.9.13) | 🟢 |
