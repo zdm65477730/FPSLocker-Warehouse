@@ -245,7 +245,6 @@ PATCH AVAILABILITY<br>
 | DreadOut Remastered Collection | `01000B202041A000` | `725731C74E4CA6A9` ([✅](SaltySD/plugins/FPSLocker/patches/01000B202041A000/725731C74E4CA6A9.yaml), v1, 1.0.2) | ~~📏~~ |
 | DreadOut 2 | `010032B01C6F2000` | `FEEA420683820CD5` ([✅](SaltySD/plugins/FPSLocker/patches/010032B01C6F2000/FEEA420683820CD5.yaml), v6, 0.7) | ~~📏🔧~~ |
 | Dredge | `01008CD0172D6000` | `B9CC2F4DE53D4F94` ([✅](SaltySD/plugins/FPSLocker/patches/01008CD0172D6000/B9CC2F4DE53D4F94.yaml), v8, 1.4.2) <br> `E711B99C30E041F7` ([✅](SaltySD/plugins/FPSLocker/patches/01008CD0172D6000/E711B99C30E041F7.yaml), v10, 1.5.1) <br> `2B1C8B24F6744644` ([✅](SaltySD/plugins/FPSLocker/patches/01008CD0172D6000/2B1C8B24F6744644.yaml), v11, 1.5.2) <br> `F716D367A6D7F5BA` ([✅](SaltySD/plugins/FPSLocker/patches/01008CD0172D6000/F716D367A6D7F5BA.yaml), v12, 1.5.3) | ~~🛑~~ |
-| Drova | `0100EF601B038000` | `37469260F1C86F1D` (◯, v6, 1.2.1) | 🟢 |
 | Dusk Diver | `0100B2B00E7AA000` | `FAD1AF4EDC6DB267` ([✅](SaltySD/plugins/FPSLocker/patches/0100B2B00E7AA000/FAD1AF4EDC6DB267.yaml), v6, 1.0.6) | ~~🔐🔧~~ |
 | Dusk Diver 2 | `01003980174BC000` | `217C9ECF258C0312` ([✅](SaltySD/plugins/FPSLocker/patches/01003980174BC000/217C9ECF258C0312.yaml), v1, 1.0.1) | ~~🔐🔧~~ |
 | Dying Light | `01008C8012920000` | `8C93B930348C9787` ([✅](SaltySD/plugins/FPSLocker/patches/01008C8012920000/8C93B930348C9787.yaml), v5, 1.0.5) | ~~📏~~ |
