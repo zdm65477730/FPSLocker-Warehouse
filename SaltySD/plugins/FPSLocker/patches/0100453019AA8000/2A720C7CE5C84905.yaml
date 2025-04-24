@@ -221,7 +221,7 @@ MASTER_WRITE:
     value_type: uint32
     value:
       - 0xB00236C0
-      - 0xD000E3E9
+      - 0xF000E369
       - 0xBD426808
   ## Fix for FN Site
   -
