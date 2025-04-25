@@ -448,7 +448,7 @@ PATCH AVAILABILITY<br>
 | NBA 2K23 | `0100ACA017E4E000` | `B583AA4A5DA59F46` (◯, v11, 1.0.11) | 🟢 |
 | NBA 2K24 | `010006501A8D8000` | `D418DFA41758684C` (◯, v11, 1.11) | 🟢 |
 | NBA 2K25 | `0100DFF01ED44000` | `FE34811DE4375217` (◯, v4, 1.04) | 🟢 |
-| Need For Speed Hot Pursuit | `010029B0118E8000` | `799D1061182C1302` ([✅](SaltySD/plugins/FPSLocker/patches/010029B0118E8000/799D1061182C1302.yaml), v3, 1.0.3) | ~~🔐⏱️🖥️~~ |
+| Need For Speed Hot Pursuit | `010029B0118E8000` | `799D1061182C1302` ([✅](SaltySD/plugins/FPSLocker/patches/010029B0118E8000/799D1061182C1302.yaml), v3, 1.0.3) | ~~🔐⏱️🖥️🔢~~ |
 | Nelke & the Legendary Alchemists | `01006ED00BC76000` | `DBD272113FD196D5` (◯, v3, 1.0.3) | 🟢 |
 | Neptunia: Sisters VS Sisters | `0100A9001C042000` | `3565E26E8827C846` ([✅](SaltySD/plugins/FPSLocker/patches/0100A9001C042000/3565E26E8827C846.yaml), v0, 1.0.0) | ~~📏~~ |
 | Neptunia Game Maker R:Evolution | `010082901D6F2000` | `FCA830BAE649B898` ([✅](SaltySD/plugins/FPSLocker/patches/010082901D6F2000/FCA830BAE649B898.yaml), v0, 1.00) | ~~📏~~ |
