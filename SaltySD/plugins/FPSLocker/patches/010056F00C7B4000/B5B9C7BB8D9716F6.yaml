@@ -1,10 +1,10 @@
-# Bravely Default II 1.0.0
-# BID: 05DE5A7F20BD1532
+# Bravely Default II Asia 1.0.0
+# BID: B5B9C7BB8D9716F6
 
 unsafeCheck: true
 
 ALL_FPS:
-  # r.DynamicRes.FrameTimeBudget (1000/FPS) cutted to one decimal
+  # r.DynamicRes.FrameTimeBudget
   -
     type: evaluate_write
     address: [MAIN, 0x72AEE90, 0]
