@@ -649,7 +649,7 @@ PATCH AVAILABILITY<br>
 | The Forest Quartet | `010010A01BBF4000` | `47A022F858BA09B1` ([✅](SaltySD/plugins/FPSLocker/patches/010010A01BBF4000/47A022F858BA09B1.yaml), v2, 4.0.2) | ~~📏~~ |
 | The Great Ace Attorney Chronicles `GLOBAL` | `010036E00FB20000` | `1DA748FC9499882F` ([✅](SaltySD/plugins/FPSLocker/patches/010036E00FB20000/1DA748FC9499882F.yaml), v0, 1.0.0) | ~~🔐~~ |
 | The Great Ace Attorney Chronicles `ASIA` | `0100D7F00FB1A000` | `D871B992E95B71C5` ([✅](SaltySD/plugins/FPSLocker/patches/0100D7F00FB1A000/D871B992E95B71C5.yaml), v0, 1.0.0) | ~~🔐~~ |
-| The Hundred Line -Last Defense Academy- | `010093C0215B4000` | `7816CA5FECA60315` ([✅](SaltySD/plugins/FPSLocker/patches/010093C0215B4000/7816CA5FECA60315.yaml), v2, 1.0.3) <br> `26350BBA224575AE` ([✅](SaltySD/plugins/FPSLocker/patches/010093C0215B4000/26350BBA224575AE.yaml), v3, 1.0.4) | ~~🔐~~ |
+| The Hundred Line -Last Defense Academy- | `010093C0215B4000` | `7816CA5FECA60315` ([✅](SaltySD/plugins/FPSLocker/patches/010093C0215B4000/7816CA5FECA60315.yaml), v2, 1.0.3) <br> `26350BBA224575AE` ([✅](SaltySD/plugins/FPSLocker/patches/010093C0215B4000/26350BBA224575AE.yaml), v4, 1.0.5) | ~~🔐~~ |
 | The Knight Witch | `0100E8501816E000` | `9C09F15234A270E4` (◯, v5, 1.0.5) | 🟢 |
 | The Last Worker | `0100ADC014CDE000` | `DAAADE43EA48F66B` (◯, v2, 1.0.4) | 🟢 |
 | The Legend of Heroes: Trails into Reverie | `01008CB0156BC000` | `7735C8DD89D145F2` ([✅](SaltySD/plugins/FPSLocker/patches/01008CB0156BC000/7735C8DD89D145F2.yaml), v4, 1.0.4) | ~~🔐👄⏱️🖥️🔧~~ |
