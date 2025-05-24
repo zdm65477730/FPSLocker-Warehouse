@@ -565,7 +565,7 @@ PATCH AVAILABILITY<br>
 | Samurai Jack: Battle Through Time | `01006C600E46E000` | `6D5DB3434CCF63F2` ([✅](SaltySD/plugins/FPSLocker/patches/01006C600E46E000/6D5DB3434CCF63F2.yaml), v3, 1.0.3) | ~~🔐📏~~ |
 | SAMURAI WARRIORS 5 | `0100B28014132000` | `810CBA3D7DB83EC0` ([✅](SaltySD/plugins/FPSLocker/patches/0100B28014132000/810CBA3D7DB83EC0.yaml), v3, 1.0.3) | ~~🔐📏⏱️🖥️~~ |
 | 戦国無双５ | `010089A0117D4000` | `9B7A3AC5AF1A3B0D` ([✅](SaltySD/plugins/FPSLocker/patches/010089A0117D4000/9B7A3AC5AF1A3B0D.yaml), v3, 1.0.3) | ~~🔐📏⏱️🖥️~~ |
-| Scars of Mars | `01007D101F162000` | `E2CE3F177AD8968C` (◯, v2, 1.1.0) | 🟢 |
+| Scars of Mars | `01007D101F162000` | `8945AE69329ED1C7` (◯, v3, 1.1.1) | 🟢 |
 | SD GUNDAM BATTLE ALLIANCE | `01002BE016054000` | `751420FADE402804` ([✅](SaltySD/plugins/FPSLocker/patches/01002BE016054000/751420FADE402804.yaml), v7, 1.4.0) | ~~📏🔧~~ |
 | SD シン・仮面ライダー 乱舞 | `0100CD40192AC000` | `651CF2EC3862B82B` (◯, v2, 1.0.2) | 🟢 |
 | SENRAN KAGURA Peach Ball | `01004DC00D936000` | `31CDAD67EA25CC16` ([✅](SaltySD/plugins/FPSLocker/patches/01004DC00D936000/31CDAD67EA25CC16.yaml), v0, 1.0.0) | ~~🔐~~ |
