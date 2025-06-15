@@ -29,8 +29,8 @@ MASTER_WRITE:
       - 0xAA0103F5
       - 0xF9406C20
       - 0x94A066EA # BL nn::os::ConvertToTimeSpan(nn::os::Tick)
-      - 0x90014BA2 # ADRP
-      - 0xB9482042 # LDR 0x3B9ACA00
+      - 0x52994002
+      - 0x72A77342
       - 0x1E220042
       - 0x9E220001
       - 0x1E211841
