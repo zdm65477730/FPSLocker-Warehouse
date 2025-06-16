@@ -82,7 +82,7 @@ PATCH AVAILABILITY<br>
 | Amnesia Collection | `01003CC00D0BE000` | `F6FB99E54347E740` ([✅](SaltySD/plugins/FPSLocker/patches/01003CC00D0BE000/F6FB99E54347E740.yaml), v3, 1.3.0) | ~~🔐📏~~⚔️ |
 | Ancestors Legacy | `01009EE0111CC000` | `E1F0CFC02F449EF3` ([✅](SaltySD/plugins/FPSLocker/patches/01009EE0111CC000/E1F0CFC02F449EF3.yaml), v2, 1.2.0) | ~~🔐⚔️~~ |
 | Ancient Weapon Holly | `0100F7201D1B0000` | `BF3F18101CBCFB33` ([✅](SaltySD/plugins/FPSLocker/patches/0100F7201D1B0000/BF3F18101CBCFB33.yaml), v3, 1.7.0) <br> `3BBD72F0EB13C1AE` ([✅](SaltySD/plugins/FPSLocker/patches/0100F7201D1B0000/3BBD72F0EB13C1AE.yaml), v4, 1.7.1) | ~~🏃~~ |
-| Animal Crossing: New Horizons | `01006F8002326000` | `15765149DF53BA41` (❌, v28, 2.0.6) | ⚔️⏱️🏃🖥 |
+| Animal Crossing: New Horizons | `01006F8002326000` | `0948E48778171EE6` (❌, v29, 2.0.7) | ⚔⏱️🏃🖥 |
 | Animal Shelter Simulator | `0100B1C01B104000` | `AB9EFB08DB5FE4F1` (❌, v1, 1.1.0) | ⏱️ |
 | Another Code: Recollection | `0100CB9018F5A000` | `DED0F920799151BE` (❌, v0, 1.0.0) | 🖌️ |
 | Another Crab's Treasure | `0100A21017C42000` | `3980F76403AE4CF2` ([✅](SaltySD/plugins/FPSLocker/patches/0100A21017C42000/3980F76403AE4CF2.yaml), v4, 1.0.101.1) <br> `01CBDFDED43B80F5` ([✅](SaltySD/plugins/FPSLocker/patches/0100A21017C42000/01CBDFDED43B80F5.yaml), v5, 1.0.103.9) <br> `B24C86A2B02DE960` ([✅](SaltySD/plugins/FPSLocker/patches/0100A21017C42000/B24C86A2B02DE960.yaml), v6, 1.1.100.1) <br> `693314C08EA157F3` ([✅](SaltySD/plugins/FPSLocker/patches/0100A21017C42000/693314C08EA157F3.yaml), v7, 1.1.100.2) | ~~📏⏱️🏃~~ |
