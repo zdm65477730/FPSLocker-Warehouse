@@ -382,7 +382,7 @@ PATCH AVAILABILITY<br>
 | Kingdoms of Amalur: Re-Reckoning | `0100EF50132BE000` | `FA48B344ED72F24D` (◯, v7, 1.0.7) | 🟢 |
 | Kitaria Fables | `0100F30013BFC000` | `220AA80516734F4C` (◯, v3, 1.0.3) | 🟢 |
 | Kirby and the Forgotten Land | `01004D300C5AE000` | `D9BA7DB72FFAFECD` ([✅](SaltySD/plugins/FPSLocker/patches/01004D300C5AE000/D9BA7DB72FFAFECD.yaml), v0, 1.0.0) | ~~🔐📏⚔️⏱️🖥️~~ |
-| Kirby Star Allies | `01007E3006DDA000` | `D55608916FA56C18`  ([✅](SaltySD/plugins/FPSLocker/patches/01007E3006DDA000/D55608916FA56C18.yaml), v5, 4.0.0) | ~~🔐⚔️~~ |
+| Kirby Star Allies | `01007E3006DDA000` | `D55608916FA56C18`  ([✅](SaltySD/plugins/FPSLocker/patches/01007E3006DDA000/D55608916FA56C18.yaml), v6, 4.0.0a) | ~~🔐⚔️~~ |
 | Kirby's Dream Buffet | `0100A8E016236000` | `82AF4E16BBC0BEC8` ([✅](SaltySD/plugins/FPSLocker/patches/0100A8E016236000/82AF4E16BBC0BEC8.yaml), v0, 1.0.0) | ~~🔐⚔️~~ |
 | L.A. Noire | `0100830004FB6000` | `40F973CE3B5EC8D7` ([✅](SaltySD/plugins/FPSLocker/patches/0100830004FB6000/40F973CE3B5EC8D7.yaml), v2, 1.2) | ~~⏱️🖥️🏃~~ |
 | Labirynth Of The Demon King | `010071F0228CA000` | `DE26B43C3D21B3A3` ([✅](SaltySD/plugins/FPSLocker/patches/010071F0228CA000/DE26B43C3D21B3A3.yaml), v1, 1.81) | ~~🔐🔧~~ |
