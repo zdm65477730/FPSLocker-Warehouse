@@ -451,7 +451,7 @@ PATCH AVAILABILITY<br>
 | My Time at Sandrock | `0100B63016916000` | `B74FDF27FC9DA1B4` (◯, v13, 1.4.2.0) | 🟢 |
 | Mythic Ocean | `0100F4F014108000` | `2284DFB25F387719` ([✅](SaltySD/plugins/FPSLocker/patches/0100F4F014108000/2284DFB25F387719.yaml), v1, 1.0.1) | ~~🔐📏~~ |
 | NARUTO SHIPPUDEN:<br>Ultimate Ninja STORM 4<br>ROAD TO BORUTO | `01006CF00CF60000` | `D3016FC0C0402DFB` (❌, v3, 1.3.0) | 🔐⏱️🖥️🎮 |
-| NARUTO X BORUTO<br>Ultimate Ninja STORM<br>CONNECTIONS | `01005A20190A6000` | `19F9F3A6A7195629` (❌, v8, 1.5.0) | 🔐⏱️🖥️ |
+| NARUTO X BORUTO<br>Ultimate Ninja STORM<br>CONNECTIONS | `01005A20190A6000` | `254B4AC2A6395A05` (❌, v9, 1.6.0) | 🔐⏱️🖥️ |
 | NASCAR Heat | `0100DC7013938000` | `E0E11E95C0DE34D3` (◯, v5, 1.0.5) | 🟢 |
 | NASCAR Rivals | `0100545016D5E000` | `71A1520B89DEC904` (◯, v5, 1.0.5) | 🟢 |
 | NBA 2K23 | `0100ACA017E4E000` | `B583AA4A5DA59F46` (◯, v11, 1.0.11) | 🟢 |
