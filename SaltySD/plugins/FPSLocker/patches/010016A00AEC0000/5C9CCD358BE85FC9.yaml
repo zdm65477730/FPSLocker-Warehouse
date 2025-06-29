@@ -4,7 +4,7 @@
 # Main offset stores address to start of .bss of NRO
 ## REF: 02 00 00 00 3C 00 00 00
 
-unsafeCheck: true
+unsafeCheck: false
 
 ALL_FPS:
   -
