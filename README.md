@@ -19,7 +19,7 @@ If any issue is crossed out, it means it was solved to - subjectively - acceptab
 
 > 🟢 - No issues
 
-> 🔐 - *Internal FPS Lock* - must be removed or adjusted, example: `ABZU`
+> 🔐 - *Internal FPS Lock* - must be removed or adjusted, example: `A Hat in Time`
 
 > 📏 - *Dynamic Resolution* - must be adjusted to target other FPS, example: `SHADOW GENERATIONS`
 
