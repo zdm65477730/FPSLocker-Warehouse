@@ -1,5 +1,5 @@
-# The Legend of Zelda: Tears of The Kingdom 1.4.1
-# BID: 965EAB9CEB8EB867
+# The Legend of Zelda: Tears of The Kingdom 1.4.2
+# BID: 5CB42B1CF25469FB
 
 Addons:
   - atmosphere/contents/0100F2C0115B6000/exefs/main.npdm
@@ -11,24 +11,24 @@ MASTER_WRITE:
   ## REF: A0 2A 40 F9 61 A2 40 39
   -
     type: bytes
-    main_offset: 0xBC9088
+    main_offset: 0xBBF258
     value_type: uint32
     value: 0x52800021
-  # Code Injected, $x1 + 0xD8 - last frametime without compensation long ticks, $x0 + 0x50 - fps target used for calculatuon int,
+  # Code Injected, $x1 + 0xD8 - last frametime without compensation long ticks, $x0 + 0x50 - fps target used for calculation int,
   # $x0 + 0x24 - our fps target used for calculation but as float, originally is stored there 30 FPS int that seems to do nothing outside of this function
-  ## MAIN + 0x3ACAFFC = FPS target for reference
+  ## MAIN + 0x3ACCFFC = FPS target for reference
   ## REF: nvnWindowSetPresentInterval
   - 
     type: bytes
-    main_offset: 0x38A3C4
+    main_offset: 0x2D4E68
     value_type: uint32
     value: 
-      - 0x9001BA02
+      - 0x9001BFC2
       - 0xBD4FFC49
       - 0xAA0003F4
       - 0xAA0103F5
       - 0xF9406C20
-      - 0x94A066EA # BL nn::os::ConvertToTimeSpan(nn::os::Tick)
+      - 0x94A33E6D # BL nn::os::ConvertToTimeSpan(nn::os::Tick)
       - 0x52994002
       - 0x72A77342
       - 0x1E220042
@@ -45,81 +45,87 @@ MASTER_WRITE:
       - 0x1400002B
   ## Use our fps target
   ## REF: 60 52 42 BD 08 4E A8 52
+  ### Replace LDR S0, [X22,#0x250]
   -
     type: bytes
-    main_offset: 0x389C8C
+    main_offset: 0x2D4730
     value_type: uint32
     value: 0xBD422660
+  ### Replace SCVTF S0, S0
   -
     type: bytes
-    main_offset: 0x389CA4
+    main_offset: 0x2D4748
     value_type: uint32
     value: 0xD503201F
   ## REF: 14 01 40 F9 08 4E A8 52
+  ### Replace LDR S0, [X22,#0x250]
   -
     type: bytes
-    main_offset: 0x4916DC
+    main_offset: 0x37EA5C
     value_type: uint32
     value: 0xBD4226C0
+  ### Replace SCVTF S0, S0
   -
     type: bytes
-    main_offset: 0x4916E8
+    main_offset: 0x37EA68
     value_type: uint32
     value: 0xD503201F
-  # When prerendered cutscene is active write flag to MAIN + 0x3ACAFFB
+  # When prerendered cutscene is active write flag to MAIN + 0x3ACCFFB
   ## REF: 68 52 40 79 08 01 19 32 68 52 00 79
+  ## BL to Code Cave 1
   -
     type: bytes
-    main_offset: 0x2B23988
+    main_offset: 0x2B238B4
     value_type: uint32
-    value: 0x97619AA3
+    value: 0x975EC581
   ## REF: 68 52 40 79 08 79 18 12 68 52 00 79, inside call
+  ## B to Code Cave 2
   -
     type: bytes
-    main_offset: 0x2B211A0
+    main_offset: 0x2B210CC
     value_type: uint32
-    value: 0x1761A4A1
-  ## CODE CAVE, offset +0x50 relative to start of previous code cave 
+    value: 0x175ECF7F
+  ## CODE CAVE 1, offset +0x50 relative to start of previous code cave 
   -
     type: bytes
-    main_offset: 0x38A414
+    main_offset: 0x2D4EB8
     value_type: uint32
     value: 
       - 0x52800022
-      - 0x9001BA03
+      - 0x9001BFC3
       - 0x393FEC62
-      - 0x141ADBE3
-  ## CODE CAVE, offset +0x10 relative to start of previous code cave
+      - 0x17F62A71 # Jump to original BL as B
+  ## CODE CAVE 2, offset +0x10 relative to start of previous code cave
   -
     type: bytes
-    main_offset: 0x38A424
+    main_offset: 0x2D4EC8
     value_type: uint32
     value: 
-      - 0x9001BA03
+      - 0x9001BFC3
       - 0x393FEC60
-      - 0x14A06C69 # B nn::oe::SetUserInactivityDetectionTimeExtended(bool)
-  # Adjust DR timing to factor from MAIN + 0x3ACAFF4
+      - 0x1402136D # B nn::oe::SetUserInactivityDetectionTimeExtended(bool)
+  # Adjust DR timing to factor from MAIN + 0x3ACCFF4
   # REF: 88 02 15 CB 00 01 23 9E
   -
     type: bytes
-    main_offset: 0x17AC04
+    main_offset: 0xEED54
     value_type: uint32
     value:
-      - 0x9001CA88
+      - 0xD001CEE8
       - 0xBD4FF501
   # Fix black background for D-pad menu
   ## REF: 21 03 5E BC
   -
     type: bytes
-    main_offset: 0x48DDD0
+    main_offset: 0x387390
     value_type: uint32
     value: 
-      - 0x17FBF198
+      - 0x17FD36D1 # Jump to Code Cave 3
       - 0x1E202008
-  ## CODE CAVE, offset +0xC relative to start of previous code cave
+  ## CODE CAVE 3, offset +0xC relative to start of previous code cave
   -
     type: bytes
-    main_offset: 0x38A430
+    main_offset: 0x2D4ED4
     value_type: uint32
     value:
       - 0x1E202028
@@ -132,40 +138,40 @@ MASTER_WRITE:
       - 0x54000041
       - 0x1E2E1008
       - 0x1F080409
-      - 0x14040E5F
+      - 0x1402C926 # Go back
   # Default values
   ## FPS Target
   -
     type: bytes
-    main_offset: 0x3ACAFFC
+    main_offset: 0x3ACCFFC
     value_type: float
     value: 30
   ## Cutscene flag
   -
     type: bytes
-    main_offset: 0x3ACAFFB
+    main_offset: 0x3ACCFFB
     value_type: uint8
     value: 0
   ## Dynamic Resolution timing factor
   -
     type: bytes
-    main_offset: 0x3ACAFF4
+    main_offset: 0x3ACCFF4
     value_type: float
     value: 0.001
 ALL_FPS:
   -
     type: evaluate_write
-    address: [MAIN, 0x3ACAFFC]
+    address: [MAIN, 0x3ACCFFC]
     value_type: float
     value: FPS_TARGET
   -
     type: evaluate_write
-    address: [MAIN, 0x3ACAFF4]
+    address: [MAIN, 0x3ACCFF4]
     value_type: float
     value: "0.001 * (FPS_TARGET / 30)"
   -
     type: compare
-    compare_address: [MAIN, 0x3ACAFFB]
+    compare_address: [MAIN, 0x3ACCFFB]
     compare_value_type: uint8
     compare_value: 1
     compare_type: "=="
