@@ -103,7 +103,7 @@ MASTER_WRITE:
     value: 
       - 0x9001BFC3
       - 0x393FEC60
-      - 0x1402136D # B nn::oe::SetUserInactivityDetectionTimeExtended(bool)
+      - 0x14A343EC # B nn::oe::SetUserInactivityDetectionTimeExtended(bool)
   # Adjust DR timing to factor from MAIN + 0x3ACCFF4
   # REF: 88 02 15 CB 00 01 23 9E
   -
