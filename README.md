@@ -52,7 +52,7 @@ If any issue is crossed out, it means it was solved to - subjectively - acceptab
 PATCH AVAILABILITY<br>
 ✝️ - patch is not possible to create<br>
 ❌ - patch not available<br>
-✅ - patch available (click on it for config file that can be converted to patch, config file may require additional files that are listed in "addons" entry).<br>
+✅ - patch available (click on it for config file that can be converted to patch, config file may require additional files that are listed in "addons" entry inside config).<br>
 ◯ - this version doesn't need a patch
 
 ---
