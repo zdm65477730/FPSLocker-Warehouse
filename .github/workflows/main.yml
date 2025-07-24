@@ -26,7 +26,6 @@ jobs:
       # 3. Install the newest Git client
       - name: Install newest Git
         run: |
-          sudo pip install github
           sudo pip install pygithub
 
       # 5. Run your Python script
