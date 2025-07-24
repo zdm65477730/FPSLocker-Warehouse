@@ -1,0 +1,34 @@
+name: Run Python Script and Push Output
+
+# Controls when the action will run.
+on:
+  schedule:
+    # Runs at the top of every hour (e.g., 1:00, 2:00, 3:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+
+jobs:
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 2. Set up the newest Python 3 version
+      - name: Set up Python 3
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      # 3. Install the newest Git client
+      - name: Install newest Git
+        run: |
+          sudo pip install github
+          sudo pip install pygithub
+
+      # 5. Run your Python script
+      - name: Run Python script
+        run: python CheckUpdate.py
