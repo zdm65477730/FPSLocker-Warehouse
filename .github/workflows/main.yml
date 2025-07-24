@@ -1,4 +1,4 @@
-name: Run Python Script and Push Output
+name: Check if Warehouse is up to date with newest game updates
 
 # Controls when the action will run.
 on:
@@ -24,10 +24,10 @@ jobs:
           python-version: '3.13'
 
       # 3. Install the newest Git client
-      - name: Install newest Git
+      - name: Install newest PyGithub
         run: |
           pip install PyGithub
 
       # 5. Run your Python script
-      - name: Run Python script
+      - name: Check game updates, look at result here
         run: python CheckUpdate.py
