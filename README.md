@@ -297,7 +297,7 @@ PATCH AVAILABILITY<br>
 | From Space | `010015F018C3C000` | `9806FB67CE24E904` ([✅](SaltySD/plugins/FPSLocker/patches/010015F018C3C000/9806FB67CE24E904.yaml), v3, 1.3.480) | ~~📏~~ |
 | FRONT MISSION 1st: Remake | `0100F200178F4000` | `B3A54521BC08F453` (◯, v7, 3.0.1) | 🟢 |
 | FRONT MISSION 2: Remake | `0100C4E018A24000` | `3FCC3A10C4B34E4A` (◯, v11, 1.0.9) | 🟢 |
-| FRONT MISSION 3: Remake | `01007E6019872000` | `CB29E9113A190FCE` (◯, v1, 1.0.1) | 🟢 |
+| FRONT MISSION 3: Remake | `01007E6019872000` | `8399CCAB61E04BF3` (◯, v2, 1.0.2) | 🟢 |
 | Fueled Up | `010022A01E1F0000` | `F0F6265AEBF4AE2C` (◯, v0, 1.0.0) | 🟢 |
 | Funko Fusion | `010058F01DF8C000` | `E6B427227FED8411` ([✅](SaltySD/plugins/FPSLocker/patches/010058F01DF8C000/E6B427227FED8411.yaml), v1, 2.3.0) <br> `E6B427227FED8411` ([✅](SaltySD/plugins/FPSLocker/patches/010058F01DF8C000/E6B427227FED8411.yaml), v2, 2.4.0) <br> `BDB53001D5CAD0AE` ([✅](SaltySD/plugins/FPSLocker/patches/010058F01DF8C000/BDB53001D5CAD0AE.yaml), v3, 2.6.2) <br> `F5E599C889DF733A` ([✅](SaltySD/plugins/FPSLocker/patches/010058F01DF8C000/F5E599C889DF733A.yaml), v4, 3.1.1) | ~~📏🔧~~ | 
 | Gal*Gun Returns | `0100047013378000` | `7E65E5BC3564BE46` ([✅](SaltySD/plugins/FPSLocker/patches/0100047013378000/7E65E5BC3564BE46.yaml), v4, 1.0.4) | ~~🔐👄🖥️~~⚔️ |
