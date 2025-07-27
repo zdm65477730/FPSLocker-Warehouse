@@ -232,7 +232,7 @@ PATCH AVAILABILITY<br>
 | Diablo II: Resurrected | `0100726014352000` | `BE7AD359B5CF5AA2` (◯, v27, 1.0.27.0) | 🟢 |
 | Dino Ranch: Ride to the Rescue | `010038301ABDA000` | `DDF3A995F0EC84E1` (◯, v1, 1.0.3) | 🟢 |
 | Disco Elysium - The Final Cut | `01006C5015E84000` | `26BDCC17F782A7B1` (◯, v12, 1.0.12) | 🟢 |
-| Disney Dreamlight Valley | `0100D39012C1A000` | `8B90184349A9368A` (◯, v44, 1.17.0) | 🟢 |
+| Disney Dreamlight Valley | `0100D39012C1A000` | `F32B455423B43274` (◯, v45, 1.17.10) | 🟢 |
 | Disney Epic Mickey: Rebrushed | `0100DA201EBF8000` | `21F90AA03BED43F0` ([✅](SaltySD/plugins/FPSLocker/patches/0100DA201EBF8000/21F90AA03BED43F0.yaml), v2, 1.0.2) <br> `EE2CAB96FB6BEDA9` ([✅](SaltySD/plugins/FPSLocker/patches/0100DA201EBF8000/EE2CAB96FB6BEDA9.yaml), v3, 1.0.3) <br> `10844A7A20C5597E` ([✅](SaltySD/plugins/FPSLocker/patches/0100DA201EBF8000/10844A7A20C5597E.yaml), v4, 1.0.4) | ~~📏🔧~~ |
 | Divinity: Original Sin 2 | `010027400CDC6000` | `4979B200D53BB282` ([✅](SaltySD/plugins/FPSLocker/patches/010027400CDC6000/4979B200D53BB282.yaml), v10, 1.0.10) | ⚔️~~📏~~ |
 | DOKAPON KiNGDOM CONNECT | `01006FD019A36000` | `4B8DE16DA675C702` (❌, v5, 1.1.2) | ⏱️🖥️ |
