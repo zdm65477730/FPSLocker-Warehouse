@@ -604,7 +604,6 @@ PATCH AVAILABILITY<br>
 | Skylanders Imaginators | `0100CCC0002E6000` | `8B03CB047C01EE43` (◯, v2, 1.1.1) | 🟢 |
 | Smurfs Kart | `01009790186FE000` | `4A8A1A08FCEBE648` (◯, v4, 1.04.3) | 🟢 |
 | Snake Pass | `0100C0F0020E8000` | `D0798521F563E6A7` ([✅](SaltySD/plugins/FPSLocker/patches/0100C0F0020E8000/D0798521F563E6A7.yaml), v5, 1.4) | ~~🔐~~ |
-| Solar Ash | `010083501AB36000` | `0959D87753F9FED4` ([✅](SaltySD/plugins/FPSLocker/patches/010083501AB36000/0959D87753F9FED4.yaml), v1, 1.06.0) | ~~📏~~ | 
 | Sniper Elite 3 | `010075A00BA14000` | `6888027D61CF603D` ([✅](SaltySD/plugins/FPSLocker/patches/010075A00BA14000/6888027D61CF603D.yaml), v1, 1.0.1) | ~~📏~~ | 
 | Sniper Elite 4 | `010007B010FCC000` | `4EEA2970DF38ECE1` ([✅](SaltySD/plugins/FPSLocker/patches/010007B010FCC000/4EEA2970DF38ECE1.yaml), v3, 1.0.3) | ~~📏~~ | 
 | Sniper Elite V2 | `0100BB000A3AA000` | `B61F280560A937D2` ([✅](SaltySD/plugins/FPSLocker/patches/0100BB000A3AA000/B61F280560A937D2.yaml), v5, 1.0.5) | ~~📏~~ |
@@ -617,6 +616,8 @@ PATCH AVAILABILITY<br>
 | SONIC FORCES DIGITAL BONUS EDITION | `0100111004460000` | `6D9EA94F8AAC00A8` ([✅](SaltySD/plugins/FPSLocker/patches/0100111004460000/6D9EA94F8AAC00A8.yaml), v1, 1.1.0) | ~~🔐⚔️~~🔢 |
 | Sonic Frontiers | `01004AD014BF0000` | `D7A05D106FF46FC0` ([✅](SaltySD/plugins/FPSLocker/patches/01004AD014BF0000/D7A05D106FF46FC0.yaml), v7, 1.4.1) | ~~🔐📏~~ |
 | SONIC GENERATIONS | `01005EA01C0FC001` | `D91C67509C6AED8D` ([✅](SaltySD/plugins/FPSLocker/patches/01005EA01C0FC001/D91C67509C6AED8D.yaml), v2, 1.1.0) | ~~🔐~~ |
+| Solar Ash | `010083501AB36000` | `0959D87753F9FED4` ([✅](SaltySD/plugins/FPSLocker/patches/010083501AB36000/0959D87753F9FED4.yaml), v1, 1.06.0) | ~~📏~~ |
+| SOMA | `0100927023A34000` | `D7F528DCEC83E0D6` (❌, v3, 1.3.0) | 🔐⏱️🏃 |
 | Soundfall | `0100B7A01386E000` | `39F1BCCB912A12DF` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7A01386E000/39F1BCCB912A12DF.yaml), v3, 1.3.17957) <br> `3AEEE2266CD84B1E` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7A01386E000/3AEEE2266CD84B1E.yaml), v4, 1.5.18245) | ~~📏🔧~~ |
 | South of the Circle | `0100E97016F60000` | `4FB83BAB154A2B56` (◯, v3, 1.0.3) | 🟢 |
 | SOUTH PARK: SNOW DAY! | `0100D1501ABAE000` | `086789EC0FDA4BF1` ([✅](SaltySD/plugins/FPSLocker/patches/0100D1501ABAE000/086789EC0FDA4BF1.yaml), v5, 1.0.5) <br> `2B7E5D5B9A730F77` ([✅](SaltySD/plugins/FPSLocker/patches/0100D1501ABAE000/2B7E5D5B9A730F77.yaml), v6, 1.0.6) <br> `DCBE53FDF98752AF` ([✅](SaltySD/plugins/FPSLocker/patches/0100D1501ABAE000/DCBE53FDF98752AF.yaml), v7, 1.0.7) <br> `C58AA3A366F82F70` ([✅](SaltySD/plugins/FPSLocker/patches/0100D1501ABAE000/C58AA3A366F82F70.yaml), v8, 1.0.8) <br> `9A2DB2F402A31811` ([✅](SaltySD/plugins/FPSLocker/patches/0100D1501ABAE000/9A2DB2F402A31811.yaml), v10, 1.0.10) <br> `4B7F793B8355C016` ([✅](SaltySD/plugins/FPSLocker/patches/0100D1501ABAE000/4B7F793B8355C016.yaml), v11, 1.0.11) | ~~📏🔧~~ |
