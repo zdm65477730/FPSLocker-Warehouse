@@ -25,7 +25,7 @@ ALL_FPS:
   # REF: 88 46 40 F9 03 11 40 F9, first ADRP+LDR above it
   -
     type: write
-    address: [MAIN, 0x2F23C00, 0xE0, 0x284]
+    address: [MAIN, 0x2F23C00, 0xE0, 0x294]
     value_type: uint8
     value: 0
   # DR Target
