@@ -65,7 +65,7 @@ PATCH AVAILABILITY<br>
 | ABYSS SEEKER――What Do You See Deep in Abyss | `01003990220BE000` | `C17F9C48EEFAB9DF` ([✅](SaltySD/plugins/FPSLocker/patches/01003990220BE000/C17F9C48EEFAB9DF.yaml), v0, 1.1.0.012) <br> `FE67FB035271B5E4` ([✅](SaltySD/plugins/FPSLocker/patches/01003990220BE000/FE67FB035271B5E4.yaml), v1, 1.2.0.020) | ~~🛑~~ |
 | ABZU | `0100C1300BBC6000` | `59719CFCD1671B98` ([✅](SaltySD/plugins/FPSLocker/patches/0100C1300BBC6000/59719CFCD1671B98.yaml), v1, 1.0.01) | ~~🔧~~ |
 | ACE COMBAT™7 SKIES UNKNOWN | `0100E3401D660000` | `FDBEE885A65A2B92` ([✅](SaltySD/plugins/FPSLocker/patches/0100E3401D660000/FDBEE885A65A2B92.yaml), v0, 1.0.0) | ~~🔐🔧~~ |
-| Achilles Legends Untold | `01007BE01FCC2000` | `BDDD7E8FA07C8C75` ([✅](SaltySD/plugins/FPSLocker/patches/01007BE01FCC2000/BDDD7E8FA07C8C75.yaml), v1, 1.0.1) | ~~📏🔧~~ |
+| Achilles Legends Untold | `01007BE01FCC2000` | `BDDD7E8FA07C8C75` ([✅](SaltySD/plugins/FPSLocker/patches/01007BE01FCC2000/BDDD7E8FA07C8C75.yaml), v2, 1.0.2) | ~~📏🔧~~ |
 | Advance Wars 1+2: Re-Boot Camp | `0100300012F2A000` | `320A17744AEFD67F`  ([✅](SaltySD/plugins/FPSLocker/patches/0100300012F2A000/320A17744AEFD67F.yaml), v0, 1.0.0) | ~~🔐~~ |
 | Adventure Time: Pirates of the Enchiridion | `0100C4E004406000` | `550CC8AAD902C04F` (◯, v4, 1.0.4.26870) | 🟢 |
 | AEW: Fight Forever | `0100BD10190C0000` | `45C15AE4450708FD` ([✅](SaltySD/plugins/FPSLocker/patches/0100BD10190C0000/45C15AE4450708FD.yaml), v9, 1.10.0) | ~~🔐📏🔧~~ |
