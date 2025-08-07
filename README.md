@@ -584,7 +584,7 @@ PATCH AVAILABILITY<br>
 | Scars of Mars | `01007D101F162000` | `8945AE69329ED1C7` (◯, v3, 1.1.1) | 🟢 |
 | SD GUNDAM BATTLE ALLIANCE | `01002BE016054000` | `751420FADE402804` ([✅](SaltySD/plugins/FPSLocker/patches/01002BE016054000/751420FADE402804.yaml), v7, 1.4.0) | ~~📏🔧~~ |
 | SD シン・仮面ライダー 乱舞 | `0100CD40192AC000` | `651CF2EC3862B82B` (◯, v2, 1.0.2) | 🟢 |
-| SENRAN KAGURA Peach Ball | `01004DC00D936000` | `31CDAD67EA25CC16` ([✅](SaltySD/plugins/FPSLocker/patches/01004DC00D936000/31CDAD67EA25CC16.yaml), v0, 1.0.0) | ~~🔐~~ |
+| SENRAN KAGURA Peach Ball | `01004DC00D936000` | `31CDAD67EA25CC16` ([✅](SaltySD/plugins/FPSLocker/patches/01004DC00D936000/31CDAD67EA25CC16.yaml), v0, 1.0.0) | ~~🔐~~⚔️ |
 | Session: Skate Sim | `010023001969A000` | `D40B81867A121EB0` ([✅](SaltySD/plugins/FPSLocker/patches/010023001969A000/D40B81867A121EB0.yaml), v4, 1.1.3) <br> `F327FFD8C2E85895` ([✅](SaltySD/plugins/FPSLocker/patches/010023001969A000/F327FFD8C2E85895.yaml), v5, 1.1.4) | ~~📏🔧~~ |
 | Severed Steel | `0100E1C0148F8000` | `77C053D779EE97F6` ([✅](SaltySD/plugins/FPSLocker/patches/0100E1C0148F8000/77C053D779EE97F6.yaml), v2, 1.0.2) <br> `5EABF05A814EBB1B` ([✅](SaltySD/plugins/FPSLocker/patches/0100E1C0148F8000/5EABF05A814EBB1B.yaml), v3, 1.0.3) | ~~📏🔧~~ |
 | SHADOW GENERATIONS | `01005EA01C0FC000` | `3AEBA262CC1D26D3` ([✅](SaltySD/plugins/FPSLocker/patches/01005EA01C0FC000/3AEBA262CC1D26D3.yaml), v1, 1.0.1) <br> `C8CDBFD621A6B29B` ([✅](SaltySD/plugins/FPSLocker/patches/01005EA01C0FC000/C8CDBFD621A6B29B.yaml), v2, 1.1.0) | ~~🔐📏~~ |
