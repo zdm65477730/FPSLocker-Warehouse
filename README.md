@@ -149,7 +149,7 @@ PATCH AVAILABILITY<br>
 | Boomerang X | `0100C09014530000` | `D92F465FE9920BB6` ([✅](SaltySD/plugins/FPSLocker/patches/0100C09014530000/D92F465FE9920BB6.yaml), v2, 1.0.2) | ~~📏~~ |
 | Borderlands | `010064800F66A000` | `1C37C3673E0E4E7A` (◯, v2, 1.0.2) | 🟢 |
 | Borderlands 2 | `010096F00FF22000` | `F7C233469F20EE3F` (◯, v2, 1.0.2) | 🟢 |
-| Borderlands: The Pre-Sequel | `010007400FF24000` | `090B1F7F7AF35D00` (◯, v1, 1.0.1) | 🟢 |
+| Borderlands: The Pre-Sequel | `010007400FF24000` | `090B1F7F7AF35D00` (❌, v1, 1.0.1) | 📏 |
 | Boti: Byteland Overclocked | `0100B7C01D480000` | `CCBDDB69038F76FC` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7C01D480000/CCBDDB69038F76FC.yaml), v0, 1.0.0) <br> `E8EA74BE6221F2E4` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7C01D480000/E8EA74BE6221F2E4.yaml), v1, 1.0.1) <br> `567A8410AE613885` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7C01D480000/567A8410AE613885.yaml), v2, 1.0.2) <br> `8A942A9E838E5083` ([✅](SaltySD/plugins/FPSLocker/patches/0100B7C01D480000/8A942A9E838E5083.yaml), v3, 1.0.3) | ~~📏🔧~~ |
 | BPM: Bullets Per Minute | `0100040016EE2000` | `331E3DFBDF650226` ([✅](SaltySD/plugins/FPSLocker/patches/0100040016EE2000/331E3DFBDF650226.yaml), v1, 0.1) | ~~📏🔧~~ |
 | Bramble The Mountain King | `0100E87017D0E000` | `ACF3FF125C2A3E68` ([✅](SaltySD/plugins/FPSLocker/patches/0100E87017D0E000/ACF3FF125C2A3E68.yaml), v5, 1.0.7) | ~~📏~~ |
