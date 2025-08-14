@@ -26,7 +26,7 @@ If any issue is crossed out, it means it was solved to - subjectively - acceptab
 
 > 📏 - *Dynamic Resolution* - must be adjusted to target other FPS, example: `SHADOW GENERATIONS`
 
-> ⚔️ - *Double Buffer* - changing it to triple buffer allows staying more often at higher FPS, example: `The Legend of Zelda: Breath of the Wild`. It doesn't include games that are not rendering double buffer in series, f.e. `The Witcher 3`
+> ⚔️ - *Double Buffer* - changing it to triple buffer allows staying more often at higher FPS, example: `The Legend of Zelda: Breath of the Wild`. It doesn't include games that are not rendering double buffer in `Acquire->Render->Present` order (like `Present->Render->Acquire`), f.e. `The Witcher 3`
 
 > 👄 - *Lipsync* - must be adjusted to work correctly at different FPS, example: `The Legend of Heroes: Trails of Cold Steel 3`
 
