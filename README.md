@@ -9,7 +9,7 @@ Read SaltyNX readme to check which games are not compatible.
 
 > IT IS RECOMMENDED TO USE OVERLAY'S BUILTIN OPTION TO DOWNLOAD CONFIG! Some games may require additional files to fix certain issues (f.e. compatibility with romfs mods in Tears of The Kingdom), using builtin option is a sure way to download all needed files at once!
 
-> To download all configs click [here](https://github.com/masagrator/FPSLocker-Warehouse/archive/refs/heads/v3.zip), unpack it and copy the `SaltySD` and `atmosphere` folder to root of your sdcard.
+> To download all configs click [here](https://github.com/masagrator/FPSLocker-Warehouse/archive/refs/heads/v3.1.zip), unpack it and copy the `SaltySD` and `atmosphere` folder to root of your sdcard.
 
 ---
 
@@ -794,6 +794,7 @@ PATCH AVAILABILITY<br>
 | 英雄伝説 閃の軌跡II<br>改 -The Erebonian Civil War- | `0100906014C3C000` | `EAB1DC1D53E319F9` ([✅](SaltySD/plugins/FPSLocker/patches/0100906014C3C000/EAB1DC1D53E319F9.yaml), v5, 1.0.5) | ~~🔐~~ |
 | ドラゴンクエストX<br>目覚めし五つの種族　オフライン | `0100E2E0152E4000` | `13F322A6161F787C` ([✅](SaltySD/plugins/FPSLocker/patches/0100E2E0152E4000/13F322A6161F787C.yaml), v4, 2.0.1) | ~~📏🔧~~ |
 | 電車でＧＯ！！ はしろう山手線 | `0100BC501355A000` | `7C9F89C3743F202F` ([✅](SaltySD/plugins/FPSLocker/patches/0100BC501355A000/7C9F89C3743F202F.yaml), v3, 1.1.2) | ~~📏🔧~~ |
+| 창세기전 \~회색의 잔영\~ | `0100276019E96000` | `EC983B9153629AC8` ([✅](SaltySD/plugins/FPSLocker/patches/0100276019E96000/EC983B9153629AC8.yaml), v1, 1.1.0) | ~~📏🔧~~ |
 
 ---
 
