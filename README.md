@@ -4,6 +4,7 @@ Here you will find a list with 30 FPS locked games, if they have FPSLocker confi
 
 Remember that NX-FPS is limited by SaltyNX capabilities. 
 Read SaltyNX readme to check which games are not compatible.
+Currently this repository is dedicated only to FPSLocker 2.4.0 or newer
 
 ---
 
