@@ -149,17 +149,19 @@ Example of `asm_a64` entry:
 
 which translates to
 ```arm
-STR X8, [x0, 0x10]!
-ADRP X10, 0x30A7000
-LDR S2, [x10, 0xf00]
+STR X8, [x0, #0x10]!
+ADRP X10, #0x30A7000
+LDR S2, [x10, #0xf00]
 ```
 
 As you can see, they are written in very similar way, but avoiding writing whole instructions as one string, so main differences are:
-- mnemonic must be separated by comma from the rest of data
-- pre-index `!` must be separated from right square bracket, and be inside quotation marks - that's because in YAML exclamation mark has special use, not doing it this way can result in crashing application
+- mnemonic must be separated by comma from the rest of data,
+- pre-index `!` must be separated from right square bracket, and be inside quotation marks - that's because in YAML exclamation mark has special use, not doing it this way can result in crashing application,
+- Avoid using `#` before immediates, that's because it's used to inform parser that everything after hash is a comment
 
 Only some instructions are supported, some of them don't cover every single case.
 Supported mnemonics (read how they work in ARM64/AArch64 documentation):
 `ADD`, `ADRP`, `B`, `B.GE`, `B.GT`, `B.HI`, `B.LE`, `B.LT`, `B.NE`, `BL`, `BLR`, `BR`, `CBNZ`, `CBZ`, `CMP`, `CSEL`, `FADD`, `FCMP`, `FCMPE`, `FCSEL`, `FCVT`, `FCVTZU`, `FDIV`, `FMADD`, `FMINNM`, `FMOV`, `FMUL`, `FNEG`, `FSQRT`, `FSUB`, `LDP`, `LDR`, `LDRB`, `LDRH`, `LDUR`, `LDURH`, `LSL`, `MADD`, `MOV`, `MOVK`, `MRS`, `MUL`, `NOP`, `RET`, `SCVTF`, `SDIV`, `STP`, `STR`, `STRB`, `STRH`, `STUR`, `STURH`, `STXR`, `STXRB`, `SUB`, `SVC`, `TBNZ`, `TBZ`, `UCVTF`, `UDIV`
 
 Additional feature is supported by `B`, `B.GE`, `B.GT`, `B.HI`, `B.LE`, `B.LT`, `B.NE`, `BL`, `CBNZ`, `CBZ`, `TBNZ`, `TBZ` - if for immediate you will write + or - sign, you can use it to inform that it's a relative amount of bytes you want to jump. So if you write for example `[b, -4]`, it will go to previous instruction.
+
