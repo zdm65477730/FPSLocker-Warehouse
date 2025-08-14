@@ -65,7 +65,7 @@ Write a static value to provided `address`
 
 > type: evaluate_write
 
-It's the same as `write` with one big difference - it is used to write expressions in `value`. More about expressions at the bottom of file.
+It's the same as `write` with one big difference - it is used to write expressions in `value`. More about expressions at `Expressions` section.
 
 > type: compare
 
@@ -91,6 +91,9 @@ Commands supported by MASTER_WRITE:
   - `main_offset` - where value should be written relative to `main` executable start in RAM.
   - `value_type` - check "Supported types".
   - `value` - what value we will write into provided address. Remember that if `value_type` is set to any integer, don't use decimals. You may write a list of values into it that will be applied one after another.
+- `asm_a64` - this is used to write assembly instructions instead of integers for better maintenance. FPSLocker automatically calculates offsets based of main_offset value. It's converted by FPSLocker to `bytes` type inside patch.
+  - `main_offset` - where value should be written relative to `main` executable start in RAM.
+  - `instructions` - it's always a list, it stores instructions in list format. Read about instructions in `ASM Instructions` section.
 ---
 
 # Supported types
@@ -120,7 +123,7 @@ Commands supported by MASTER_WRITE:
 
 # Expressions
 
-For expressions evaluation is used TinyExpr library. It support various math C functions with addition to FPSLocker that includes globals and one additional function.
+For expressions evaluation is used TinyExpr library. It supports various math C functions with addition to FPSLocker that includes globals and one additional function.
 
 Additional function:
 - `TruncDec([Value], [Dec])` - This function removes decimals from "Value". With "Dec" we can control how many decimals we will leave. For example if we write `TruncDec(FRAMETIME_TARGET, 2)` it will result in `33.33` when 30 FPS is chosen.
@@ -130,3 +133,33 @@ Globals (all are stored as double and converted to chosen value_type):
 - `FRAMETIME_TARGET` = `1000 / FPS_TARGET`
 - `VSYNC_TARGET` = `60 / FPS_TARGET` without decimals
 - `FPS_LOCK_TARGET` - similar to FPS_TARGET with the difference that if FPS target chosen in FPSLocker matches refresh rate, it is equal to 120 to avoid stutterings caused by artifical FPS lock.
+
+# ASM Instructions
+Example of `asm_a64` entry:
+```yaml
+  -
+    type: asm_a64
+    main_offset: 0x193CEA8
+    instructions: [
+      [str, x8, [x0, 0x10], "!"],
+      [adrp, x10, 0x30a7000],
+      [ldr, s2, [x10, 0xf00]]
+    ]
+```
+
+which translates to
+```arm
+STR X8, [x0, 0x10]!
+ADRP X10, 0x30A7000
+LDR S2, [x10, 0xf00]
+```
+
+As you can see, they are written in very similar way, but avoiding writing whole instructions as one string, so main differences are:
+- mnemonic must be separated by comma from the rest of data
+- pre-index `!` must be separated from right square bracket, and be inside quotation marks - that's because in YAML exclamation mark has special use, not doing it this way can result in crashing application
+
+Only some instructions are supported, some of them don't cover every single case.
+Supported mnemonics (read how they work in ARM64/AArch64 documentation):
+`ADD`, `ADRP`, `B`, `B.GE`, `B.GT`, `B.HI`, `B.LE`, `B.LT`, `B.NE`, `BL`, `BLR`, `BR`, `CBNZ`, `CBZ`, `CMP`, `CSEL`, `FADD`, `FCMP`, `FCMPE`, `FCSEL`, `FCVT`, `FCVTZU`, `FDIV`, `FMADD`, `FMINNM`, `FMOV`, `FMUL`, `FNEG`, `FSQRT`, `FSUB`, `LDP`, `LDR`, `LDRB`, `LDRH`, `LDUR`, `LDURH`, `LSL`, `MADD`, `MOV`, `MOVK`, `MRS`, `MUL`, `NOP`, `RET`, `SCVTF`, `SDIV`, `STP`, `STR`, `STRB`, `STRH`, `STUR`, `STURH`, `STXR`, `STXRB`, `SUB`, `SVC`, `TBNZ`, `TBZ`, `UCVTF`, `UDIV`
+
+Additional feature is supported by `B`, `B.GE`, `B.GT`, `B.HI`, `B.LE`, `B.LT`, `B.NE`, `BL`, `CBNZ`, `CBZ`, `TBNZ`, `TBZ` - if for immediate you will write + or - sign, you can use it to inform that it's a relative amount of bytes you want to jump. So if you write for example `[b, -4]`, it will go to previous instruction.
